@@ -61,11 +61,12 @@ status:   "wiring actuators and training models. sometimes at the same time."
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Harini-UW/mind-mirror">Mind Mirror</a></h4>
-      <p><!-- Add a one-line description of what Mind Mirror does here --></p>
+      <h4><a href="https://github.com/Harini-UW/Mind-Mirror">Mind Mirror</a> &nbsp;<a href="https://mindmirror-blush.vercel.app/">↗</a></h4>
+      <p>AI brainstorming agent that asks better questions instead of giving answers. Drives structured thinking through adaptive, focused questioning. 1st place @ Calgary Hacks 2026.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/ML-6d28d9?style=flat-square&logoColor=white" alt="ML"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/OpenRouter-6d28d9?style=flat-square&logoColor=white" alt="OpenRouter"/>
       </p>
     </td>
   </tr>
