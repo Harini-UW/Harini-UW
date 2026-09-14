@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:111827&height=128&text=Harini%20Srinivasan&fontSize=34&fontColor=f8fafc&fontAlignY=52&desc=mechatronics%20%40%20waterloo%20%C2%B7%202025%E2%80%932030&descSize=13&descColor=6b7280&descAlignY=72"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:111827&height=128&text=Harini%20Srinivasan&fontSize=34&fontColor=f8fafc&fontAlignY=63"/>
 
 <br/>
 
