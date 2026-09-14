@@ -27,10 +27,5 @@
   <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logoColor=white"/>
 </p>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0d0d0d&height=40&section=footer"/>
